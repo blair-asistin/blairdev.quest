@@ -9,8 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "ex": "^0.1.4",
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
   }
 }
-
-
