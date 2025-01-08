@@ -9,13 +9,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-<<<<<<< HEAD
-    "ex": "^0.1.4",
-    "express": "^4.21.2",
-=======
     "express": "^4.21.2",
     "sqlite3": "^5.1.7",
->>>>>>> 9328c3a139544f2e64d36252b7613b5d0f1dd653
     "ws": "^8.18.0"
   }
 }
+
